@@ -3,7 +3,8 @@
 > **Cloud Engineer**, **DevOps Engineer**
 > 
 
-![KakaoTalk_20240306_090645281.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/1d1f5e17-6d94-451c-9271-c698ee060384/7b6c6450-6611-4b55-b9f3-86587f03c511/KakaoTalk_20240306_090645281.png)
+![KakaoTalk_20240306_090645281](https://github.com/OhSuYeong/OhSuYeong/assets/101083171/229a865e-7be1-495d-a9f8-fbc460342c33)
+
 
 **🎂 Birth**
 
