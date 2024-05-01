@@ -5,21 +5,13 @@
 
 ![KakaoTalk_20240306_090645281](https://github.com/OhSuYeong/OhSuYeong/assets/101083171/abe91677-34a2-41b6-98e5-9ef185cd5dc5)
 **🎂 Birth**
-
 *1999.02.09*
-
 **✉️ E-Mail**
-
 wb0982@naver.com
-
 wb098294@gmail.com
-
 🐱 **Github**
-
 *[github.com/OhSuYeong](https://github.com/OhSuYeong)*
-
 🐳 **Dockerhub**
-
 [*hub.docker.com/u/ohsuyeong*](https://hub.docker.com/u/ohsuyeong)
 
 ## 🙋‍♂️ About me
