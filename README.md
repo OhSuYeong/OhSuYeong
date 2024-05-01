@@ -3,29 +3,23 @@
 > **Cloud Engineer**, **DevOps Engineer**
 > 
 
-<div style="display:flex;">
-    <div style="flex:1; padding-right:20px;">
-        <!-- 이미지를 넣을 부분 -->
+**🎂 Birth**
 
-        <img src="이미지 URL" alt="프로필 이미지" width="200"/>
-    </div>
-    <div style="flex:2;">
-        <!-- 텍스트를 넣을 부분 -->
-        <h2>🎂 Birth</h2>
-        <p><em>1999.02.09</em></p>
+*1999.02.09*
 
-        <h2>✉️ E-Mail</h2>
-        <p>wb0982@naver.com</p>
-        <p>wb098294@gmail.com</p>
+**✉️ E-Mail**
 
-        <h2>🐱 Github</h2>
-        <p><a href="https://github.com/OhSuYeong">github.com/OhSuYeong</a></p>
+wb0982@naver.com
 
-        <h2>🐳 Dockerhub</h2>
-        <p><a href="https://hub.docker.com/u/ohsuyeong">hub.docker.com/u/ohsuyeong</a></p>
-    </div>
-</div>
+wb098294@gmail.com
 
+🐱 **Github**
+
+*[github.com/OhSuYeong](https://github.com/OhSuYeong)*
+
+🐳 **Dockerhub**
+
+[*hub.docker.com/u/ohsuyeong*](https://hub.docker.com/u/ohsuyeong)
 
 ## 🙋‍♂️ About me
 
