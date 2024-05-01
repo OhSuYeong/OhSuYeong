@@ -3,7 +3,7 @@
 > **Cloud Engineer**, **DevOps Engineer**
 > 
 
-![KakaoTalk_20240306_090645281](https://github.com/OhSuYeong/OhSuYeong/assets/101083171/229a865e-7be1-495d-a9f8-fbc460342c33)
+![KakaoTalk_20240306_090645281](https://github.com/OhSuYeong/OhSuYeong/assets/101083171/abe91677-34a2-41b6-98e5-9ef185cd5dc5)
 
 
 **🎂 Birth**
@@ -99,7 +99,7 @@ Enhancing Accuracy in Alpha Filter through Weighted Process Noise in Kalman Filt
 - 정보처리기사 (2024.03.13)
     - 한국산업인력공단
     - 필기 합격
-    - 실기 5월 예정
+    - 실기 6월 18일 결과 발표
 
 ## 📖 Educations
 
