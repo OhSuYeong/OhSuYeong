@@ -3,25 +3,30 @@
 > **Cloud Engineer**, **DevOps Engineer**
 > 
 
-<div style="overflow:auto;">
-    <div style="float:left; margin-right:10px;">
-        <img src="https://raw.githubusercontent.com/OhSuYeong/OhSuYeong/main/assets/101083171/abe91677-34a2-41b6-98e5-9ef185cd5dc5/KakaoTalk_20240306_090645281.jpg" alt="이미지 설명" width="200"/>
+<div style="display:flex;">
+    <div style="flex:1; padding-right:20px;">
+        <!-- 이미지를 넣을 부분 -->
+        ![KakaoTalk_20240306_090645281](https://github.com/OhSuYeong/OhSuYeong/assets/101083171/e90c0285-74a4-405c-8166-f7fea8e1e363)
+
+        <img src="이미지 URL" alt="프로필 이미지" width="200"/>
     </div>
-    <div style="overflow:auto;">
-        **🎂 Birth**  
-        *1999.02.09*  
+    <div style="flex:2;">
+        <!-- 텍스트를 넣을 부분 -->
+        <h2>🎂 Birth</h2>
+        <p><em>1999.02.09</em></p>
 
-        **✉️ E-Mail**  
-        wb0982@naver.com  
-        wb098294@gmail.com  
+        <h2>✉️ E-Mail</h2>
+        <p>wb0982@naver.com</p>
+        <p>wb098294@gmail.com</p>
 
-        🐱 **Github**  
-        [github.com/OhSuYeong](https://github.com/OhSuYeong)  
+        <h2>🐱 Github</h2>
+        <p><a href="https://github.com/OhSuYeong">github.com/OhSuYeong</a></p>
 
-        🐳 **Dockerhub**  
-        [hub.docker.com/u/ohsuyeong](https://hub.docker.com/u/ohsuyeong)
+        <h2>🐳 Dockerhub</h2>
+        <p><a href="https://hub.docker.com/u/ohsuyeong">hub.docker.com/u/ohsuyeong</a></p>
     </div>
 </div>
+
 
 ## 🙋‍♂️ About me
 
