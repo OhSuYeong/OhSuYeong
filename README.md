@@ -6,7 +6,6 @@
 <div style="display:flex;">
     <div style="flex:1; padding-right:20px;">
         <!-- 이미지를 넣을 부분 -->
-        ![KakaoTalk_20240306_090645281](https://github.com/OhSuYeong/OhSuYeong/assets/101083171/e90c0285-74a4-405c-8166-f7fea8e1e363)
 
         <img src="이미지 URL" alt="프로필 이미지" width="200"/>
     </div>
